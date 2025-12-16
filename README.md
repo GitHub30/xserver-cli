@@ -1,5 +1,8 @@
 # xserver-cli
 
+[![PyPI version](https://badge.fury.io/py/xserver-cli.svg)](https://badge.fury.io/py/xserver-cli)
+[![Publish to PyPI](https://github.com/GitHub30/xserver-cli/actions/workflows/workflow.yml/badge.svg)](https://github.com/GitHub30/xserver-cli/actions/workflows/workflow.yml)
+
 XServerをコマンドラインから操作するための非公式ツールです。
 
 ## インストール
